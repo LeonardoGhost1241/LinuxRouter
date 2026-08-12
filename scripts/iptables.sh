@@ -5,7 +5,7 @@ intInterface="$2"
 
 # iptables rules (NAT)
 echo "Setting firewall rules..."
-iptables -t nat -A POSTROUTING -o intInterface -j MASQUERADE
+iptables -t nat -A POSTROUTING -o $intInterface -j MASQUERADE
 iptables -A FORWARD -i $extInterface -o $intInterface -j ACCEPT
 iptables -A FORWARD -i $intInterface -o $extInterface -j ACCEPT
 
