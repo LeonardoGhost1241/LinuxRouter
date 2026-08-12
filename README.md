@@ -5,8 +5,6 @@ Become a linux as a Router and a Firewall
 ## Topology 
 ![alt text](images/image.png)
 
-
-
 ## Requeriments 
 - 
 
@@ -14,22 +12,16 @@ Become a linux as a Router and a Firewall
 ## Installation and deploy 
 
 
-
-
-
 ## Troubleshooting 
 
 <details>
   <summary>Operation not supported </summary>
   cuando la interfaz no admite modo acces point 
-  Este es el contenido oculto. Puedes incluir texto, imágenes o código.
 </details>
 
 
 <details>
   <summary>Problema 2</summary>
-
-  Este es el contenido oculto. Puedes incluir texto, imágenes o código.
 </details>
 
 
